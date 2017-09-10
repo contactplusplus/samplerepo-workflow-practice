@@ -2,6 +2,6 @@
 This is a team repo for members of the team {Team ID}
 
 # Team Members
+* [Zachary Tang](members/zacharyTang.md)
 * [Jiang Lingshuo](members/jiangLingshuo.md)
 * [ZH](members/ZH.md)
-
