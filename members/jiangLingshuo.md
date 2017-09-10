@@ -1,10 +1,10 @@
-#Jiang Lingshuo
+# Jiang Lingshuo
 -------------------------------------------------
-#Basic Information
+## Basic Information
 National University of Singapore
 Computer Science
 
-#Programming languages
+## Programming languages
 Java
 Javascript
 C
